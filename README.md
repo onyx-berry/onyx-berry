@@ -11,7 +11,7 @@
 Yo👾, I'm @onyx-berry- lost in the code, dodging divs, and escaping CSS chaos.
 A dark corner where automation awakens, algorithms evolve, and the machines may soon rise… ⚡👁️‍🗨️
 
-![Mysterious GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVpYXUzMTZyNGE0ZTl1bW95aTJ4NnJpcDV5eDByeWplY2RsZjFwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lEtgrdXTJukLOx5NeK/giphy.gif)
+![Mysterious GIF](https://media1.tenor.com/m/FX0J3ckDyx8AAAAd/geto-suguru-yo.gif)
 
 🔍 Interests
 🔹 Low-level wizardry (Rust soon, but Python supremacy first 🐍).
