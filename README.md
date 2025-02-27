@@ -8,8 +8,7 @@
 > "With man this is impossible, but with God all things are possible." - Matthew 19:26
 
 👋 Servus, Hackerfreund! 🚀😎
-
-Yo👾, I’m @onyx-berry- lost in the code, dodging divs, and escaping CSS chaos.
+Yo👾, I'm @onyx-berry- lost in the code, dodging divs, and escaping CSS chaos.
 A dark corner where automation awakens, algorithms evolve, and the machines may soon rise… ⚡👁️‍🗨️
 
 ![Mysterious GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ1ZnZ5NnJ1d2d3aHQ0eGEydDh5MmM5MTVpZmZidnoyeGEwdDF2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lEtgrdXTJukLOx5NeK/giphy.gif)
@@ -48,7 +47,6 @@ First recorded "Hello World" was actually "Let there be light."
 If I had a dollar for every time I Googled an error, I’d be rich.
 I talk to my laptop, and sometimes, it talks back.
 
-```bash
 > SYSTEM ONLINE...
 > Ready to break and build? Let's roll.
 
